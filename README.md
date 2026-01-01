@@ -1,9 +1,5 @@
 This repository contains recorded learning materials for **TARUMT RSD (Software Systems Development)** from **2024 to 2025**.
 The resources provided here are intended as **supplementary study materials only**. You are encouraged to exercise your own judgment when using them and to consult your tutor or instructor for the most accurate and authoritative answers.
-### ⚠️ Disclaimer:
-All materials are shared for learning and revision purposes only.  
-They may not fully reflect the latest syllabus, marking scheme, or official solutions.
-
 ### Contents
 This repository may include:
 - Self-study notes  
@@ -11,13 +7,18 @@ This repository may include:
 - Practical and sample codes  
 - Assignments report
 - Past Year Questions (PYQs) discussed or attempted by lecturers/tutors/students  
+### ⚠️ Disclaimer:
+All materials are shared for learning and revision purposes only.  
+They may not fully reflect the latest syllabus, marking scheme, or official solutions.
 
 ## Contact
-If you have any questions or need clarification, feel free to contact me via chiamingyi1218@gmail.com / ig: saltedfishhh_ovo .  
-I will be happy to help where possible.
+If you have any questions or need clarification, feel free to contact me via chiamingyi1218@gmail.com / ig: saltedfishhh_ovo . I will be happy to help where possible.
+These materials were prepared and organized by me and my friends, and your support helps keep us motivated
+**If you find this repository useful, consider treating us a milk tea🧋 (❁´◡`❁)** 
+<img width="827" height="1280" alt="image" src="https://github.com/user-attachments/assets/570b6aac-a5cd-4f33-a27f-1c4900735d5a" />
 
 
-## 📘 Course Structure (RSD)
+## 📘 Course Material Structure
 📌 **Tip:** You can click the course name to open the folder for that subject.
 
 | Year | Semester | Course Code | Course Name |
