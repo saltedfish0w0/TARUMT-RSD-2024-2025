@@ -15,7 +15,7 @@ They may not fully reflect the latest syllabus, marking scheme, or official solu
 If you have any questions or need clarification, feel free to contact me via chiamingyi1218@gmail.com / ig: saltedfishhh_ovo . I will be happy to help where possible.
 These materials were prepared and organized by me and my friends, and your support helps keep us motivated
 **If you find this repository useful, consider treating us a milk tea🧋 (❁´◡`❁)** 
-<img width="827" height="1280" alt="image" src="https://github.com/user-attachments/assets/570b6aac-a5cd-4f33-a27f-1c4900735d5a" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/570b6aac-a5cd-4f33-a27f-1c4900735d5a" />
 
 
 ## 📘 Course Material Structure
