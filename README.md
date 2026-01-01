@@ -12,8 +12,7 @@ All materials are shared for learning and revision purposes only.
 They may not fully reflect the latest syllabus, marking scheme, or official solutions.
 ## Contact
 If you have any questions or need clarification, feel free to contact me via chiamingyi1218@gmail.com / ig: saltedfishhh_ovo . I will be happy to help where possible.
-These materials were prepared and organized by me and my friends, and your support helps keep us motivated
-**If you find this repository useful, consider treating us a milk tea🧋 (❁´◡`❁)** 
+These materials were prepared and organized by me and my friends, and **If you find this repository useful, consider treating us a milk tea🧋 (❁´◡`❁) Your support helps keep us motivated🩵** 
 
 <img width="220" height="350" alt="image" src="https://github.com/user-attachments/assets/570b6aac-a5cd-4f33-a27f-1c4900735d5a" />
 
