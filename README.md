@@ -1,6 +1,5 @@
 This repository contains recorded learning materials for **TARUMT RSD (Software Systems Development)** from **2024 to 2025**.
 The resources provided here are intended as **supplementary study materials only**. You are encouraged to exercise your own judgment when using them and to consult your tutor or instructor for the most accurate and authoritative answers.
-### Contents
 This repository may include:
 - Self-study notes  
 - Tutorial answers  
